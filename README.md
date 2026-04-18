@@ -129,7 +129,7 @@ App opens at `http://localhost:8501`
 | Frontend & Backend | Python + Streamlit |
 | Styling | Custom CSS (Space Grotesk + Inter fonts) |
 | Charting | SVG (hand-built gauge) |
-| Analysis Engine | Rule-based Python (no ML/API) |
+| Analysis Engine | Rule-based Python (no API) |
 | Deployment | Streamlit Community Cloud |
 
 ---
@@ -140,9 +140,9 @@ This tool is an **educational simulation** — it does not access your actual CI
 
 ---
 
-## 👤 Author
+## 👤 Author - BHARGAV SINGH 
 
-Built as an internship project demonstrating applied financial data modelling, UI/UX design, and deployment on Streamlit Cloud.
+Built a project demonstrating applied financial data modelling, UI/UX design, and deployment on Streamlit Cloud.
 
 ---
 
