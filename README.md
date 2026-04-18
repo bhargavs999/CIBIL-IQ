@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-Deploy on Streamlit Cloud → [streamlit.io/cloud](https://streamlit.io/cloud)
+(https://cibil-iq.streamlit.app/)
 
 ---
 
