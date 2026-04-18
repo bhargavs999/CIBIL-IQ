@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-(https://cibil-iq.streamlit.app/)
+https://cibil-iq.streamlit.app/
 
 ---
 
